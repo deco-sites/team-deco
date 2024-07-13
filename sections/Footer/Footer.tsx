@@ -69,8 +69,8 @@ function Footer({
                     src={image}
                     alt={alt}
                     loading="lazy"
-                    width={24}
-                    height={24}
+                    width={180}
+                    height={40}
                   />
                 </a>
               </li>
