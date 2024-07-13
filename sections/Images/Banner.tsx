@@ -46,7 +46,7 @@ function Banner({ title, description, images, cta }: Props) {
             "h-full max-w-full sm:max-w-[33%]",
           )}
         >
-          {title && <span class="font-bold text-7xl">{title}</span>}
+          {title && <span class="font-bold text-7xl text-white">{title}</span>}
           {description && (
             <span
               class="font-normal text-sm"
