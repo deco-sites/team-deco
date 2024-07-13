@@ -1950,7 +1950,7 @@
             "content": [
               {
                 "type": "stack",
-                "width": 30.552861299709022,
+                "width": 41.66666666666667,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -1964,15 +1964,15 @@
                     "componentState": {
                       "id": "%2F.deco%2Fblocks%2Fpages-category-7493d4326022.json::Properties::list::Properties::%7B%7D"
                     },
-                    "width": 30,
                     "isClosable": true,
-                    "reorderEnabled": true
+                    "reorderEnabled": true,
+                    "width": 30
                   }
                 ]
               },
               {
                 "type": "stack",
-                "width": 69.44713870029098,
+                "width": 58.333333333333336,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -1986,9 +1986,9 @@
                     "componentState": {
                       "id": "%2F.deco%2Fblocks%2Fpages-category-7493d4326022.json::Preview::visibility::Preview::%7B%7D"
                     },
-                    "width": 70,
                     "isClosable": true,
-                    "reorderEnabled": true
+                    "reorderEnabled": true,
+                    "width": 70
                   }
                 ]
               }
@@ -2008,11 +2008,11 @@
           "accepts": "function",
           "render": "function",
           "viewId": "Properties",
-          "width": 30,
           "id": "%2F.deco%2Fblocks%2Fpages-category-7493d4326022.json::Properties::list::Properties::%7B%7D",
           "state": {
             "__signal": null
-          }
+          },
+          "width": 30
         },
         "%2F.deco%2Fblocks%2Fpages-category-7493d4326022.json::Preview::visibility::Preview::%7B%7D": {
           "name": "Preview",
