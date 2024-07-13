@@ -5,11 +5,11 @@ interface Props {
   name?: string;
 }
 
-export default function Section({ name = "" }: Props) {
+export default function Section({ name = "Something went wrong!!" }: Props) {
   return (
-    <div>
-      <h1 className="bg-red-200">
-        It looks like you're offline.
+    <div className="flex items-center justify-center">
+      <h1 className="text-2xl mt-2 font-semibold text-red-300">
+        {name}
       </h1>
     </div>
   )
