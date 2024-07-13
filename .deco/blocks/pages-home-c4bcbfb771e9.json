@@ -8,40 +8,23 @@
       "__resolveType": "site/sections/Images/Carousel.tsx",
       "images": [
         {
-          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/6da0c9dd-0eff-415a-938d-abfa4d52576a",
-          "alt": "Shoes",
-          "action": {
-            "title": "Skate into Adventure",
-            "subTitle": "Top-quality roller skate shoes for all levels. ",
-            "href": "#",
-            "label": "Grab Yours Now!"
-          },
-          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/0020cc10-8311-4505-9ff6-d084607d1d44"
+          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/cdb9c6e1-c59f-43fe-a17c-fd6c44ba3547",
+          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/19ff4577-fb32-4624-bab5-cf280da8f99e",
+          "alt": "Wardrobe"
         },
         {
-          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/d26304f4-355b-48d0-b649-e24b9cbf0ded",
-          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/47a4d85a-1150-4e5d-abc2-5c642445ff12",
-          "alt": "Men",
-          "action": {
-            "title": "Discover Fresh Looks",
-            "subTitle": "Modern men's clothing and accessories.",
-            "href": "#",
-            "label": "Shop the Collection"
-          }
+          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/cdd4b312-1447-404b-92fc-1aa3285d794b",
+          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/613d1ee1-f285-4ddd-876a-bb7b363ce949",
+          "alt": "men"
         },
         {
-          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/1226ef79-c7e0-403c-b716-b6b9af3f2936",
-          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/f7ea4cbe-7498-4e64-9205-c741753edfcc",
-          "action": {
-            "label": "Shop Now!",
-            "href": "#",
-            "title": "Embrace New Trends",
-            "subTitle": "Stylish clothes and accessories."
-          },
-          "alt": "Woman"
+          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/5e304641-4e29-4331-841e-f1b564265297",
+          "alt": "Women",
+          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/176ec2dd-0202-49b0-9c73-c4145ee4847d"
         }
       ],
-      "preload": true
+      "preload": true,
+      "interval": 3
     },
     {
       "__resolveType": "site/sections/Product/ProductShelf.tsx",
