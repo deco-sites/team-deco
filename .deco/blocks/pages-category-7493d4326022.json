@@ -8,7 +8,9 @@
       "__resolveType": "commerce/sections/Seo/SeoPLP.tsx",
       "jsonLD": {
         "__resolveType": "PLP Loader"
-      }
+      },
+      "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/26feddb5-1388-4bdc-b728-16d0541c167d",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/ba16036a-0241-4465-90ea-73f03dc26f13"
     },
     {
       "__resolveType": "Header"

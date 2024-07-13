@@ -12,7 +12,9 @@
       },
       "jsonLDs": [
         {}
-      ]
+      ],
+      "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/efb79f42-dcb5-4a41-9a9a-c63269ad460c",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/cc34fdbb-29fd-416d-b1cd-97bebcc473fe"
     },
     {
       "__resolveType": "Header"
