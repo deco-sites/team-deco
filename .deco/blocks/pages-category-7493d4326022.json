@@ -29,7 +29,16 @@
       "startingPage": 1
     },
     {
-      "__resolveType": "site/sections/Newsletter/Newsletter.tsx"
+      "__resolveType": "site/sections/Newsletter/Newsletter.tsx",
+      "empty": {
+        "title": "Explore Top Trends and Modern Fashion"
+      },
+      "success": {
+        "title": "Explore"
+      },
+      "failed": {
+        "title": "Something Went Wrong"
+      }
     },
     {
       "__resolveType": "Footer"

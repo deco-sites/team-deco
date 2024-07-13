@@ -17,9 +17,6 @@
     },
     {
       "__resolveType": "Footer"
-    },
-    {
-      "__resolveType": "site/sections/OfflineSection.tsx"
     }
   ],
   "__resolveType": "website/pages/Page.tsx"

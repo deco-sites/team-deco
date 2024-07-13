@@ -2515,54 +2515,25 @@
         },
         "content": [
           {
-            "type": "row",
+            "type": "stack",
             "isClosable": true,
             "reorderEnabled": true,
             "title": "",
             "content": [
               {
-                "type": "stack",
-                "width": 26.484907497565725,
+                "type": "component",
                 "isClosable": true,
                 "reorderEnabled": true,
-                "title": "",
-                "activeItemIndex": 0,
-                "content": [
-                  {
-                    "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FNewsletter%252FNewsletter.tsx.json::Preview::visibility::Preview::%7B%7D",
-                    "title": "<div class=\"contents text-base-700\" id=\"header-%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FNewsletter%252FNewsletter.tsx.json::Preview::visibility::Preview::%7B%7D\" />",
-                    "type": "component",
-                    "componentName": "component",
-                    "componentState": {
-                      "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FNewsletter%252FNewsletter.tsx.json::Preview::visibility::Preview::%7B%7D"
-                    },
-                    "isClosable": true,
-                    "reorderEnabled": true
-                  }
-                ]
-              },
-              {
-                "type": "stack",
-                "width": 73.51509250243427,
-                "isClosable": true,
-                "reorderEnabled": true,
-                "title": "",
-                "activeItemIndex": 0,
-                "content": [
-                  {
-                    "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FNewsletter%252FNewsletter.tsx.json::Code::code::Code::%7B%7D",
-                    "title": "<div class=\"contents text-base-700\" id=\"header-%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FNewsletter%252FNewsletter.tsx.json::Code::code::Code::%7B%7D\" />",
-                    "type": "component",
-                    "componentName": "component",
-                    "componentState": {
-                      "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FNewsletter%252FNewsletter.tsx.json::Code::code::Code::%7B%7D"
-                    },
-                    "isClosable": true,
-                    "reorderEnabled": true
-                  }
-                ]
+                "title": "<div class=\"contents text-base-700\" id=\"header-%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FNewsletter%252FNewsletter.tsx.json::Code::code::Code::%7B%22spaceId%22%3A%22%2Fcomponents%2Fproduct%2FProductCard.tsx%22%7D\" />",
+                "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FNewsletter%252FNewsletter.tsx.json::Code::code::Code::%7B%22spaceId%22%3A%22%2Fcomponents%2Fproduct%2FProductCard.tsx%22%7D",
+                "componentName": "component",
+                "componentState": {
+                  "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FNewsletter%252FNewsletter.tsx.json::Code::code::Code::%7B%22spaceId%22%3A%22%2Fcomponents%2Fproduct%2FProductCard.tsx%22%7D"
+                }
               }
-            ]
+            ],
+            "width": 100,
+            "activeItemIndex": 0
           }
         ],
         "isClosable": true,
@@ -2583,13 +2554,16 @@
             "__signal": null
           }
         },
-        "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FNewsletter%252FNewsletter.tsx.json::Code::code::Code::%7B%7D": {
+        "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FNewsletter%252FNewsletter.tsx.json::Code::code::Code::%7B%22spaceId%22%3A%22%2Fcomponents%2Fproduct%2FProductCard.tsx%22%7D": {
           "name": "Code",
           "icon": "code",
           "accepts": "function",
           "render": "function",
           "viewId": "Code",
-          "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FNewsletter%252FNewsletter.tsx.json::Code::code::Code::%7B%7D",
+          "viewProps": {
+            "spaceId": "/components/product/ProductCard.tsx"
+          },
+          "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FNewsletter%252FNewsletter.tsx.json::Code::code::Code::%7B%22spaceId%22%3A%22%2Fcomponents%2Fproduct%2FProductCard.tsx%22%7D",
           "state": {
             "__signal": "error"
           }
@@ -2634,24 +2608,24 @@
         "content": [
           {
             "type": "stack",
-            "width": 100,
             "isClosable": true,
             "reorderEnabled": true,
             "title": "",
-            "activeItemIndex": 0,
             "content": [
               {
-                "id": "%2Fcomponents%2Fproduct%2FAddToCartButton.tsx::Code::code::Code::%7B%22spaceId%22%3A%22%2Fcomponents%2Fproduct%2FAddToCartButton.tsx%22%7D",
-                "title": "<div class=\"contents text-base-700\" id=\"header-%2Fcomponents%2Fproduct%2FAddToCartButton.tsx::Code::code::Code::%7B%22spaceId%22%3A%22%2Fcomponents%2Fproduct%2FAddToCartButton.tsx%22%7D\" />",
                 "type": "component",
+                "isClosable": true,
+                "reorderEnabled": true,
+                "title": "<div class=\"contents text-base-700\" id=\"header-%2Fcomponents%2Fproduct%2FAddToCartButton.tsx::Code::code::Code::%7B%22spaceId%22%3A%22%2Fcomponents%2Fproduct%2FAddToCartButton.tsx%22%7D\" />",
+                "id": "%2Fcomponents%2Fproduct%2FAddToCartButton.tsx::Code::code::Code::%7B%22spaceId%22%3A%22%2Fcomponents%2Fproduct%2FAddToCartButton.tsx%22%7D",
                 "componentName": "component",
                 "componentState": {
                   "id": "%2Fcomponents%2Fproduct%2FAddToCartButton.tsx::Code::code::Code::%7B%22spaceId%22%3A%22%2Fcomponents%2Fproduct%2FAddToCartButton.tsx%22%7D"
-                },
-                "isClosable": true,
-                "reorderEnabled": true
+                }
               }
-            ]
+            ],
+            "width": 100,
+            "activeItemIndex": 0
           }
         ],
         "isClosable": true,
