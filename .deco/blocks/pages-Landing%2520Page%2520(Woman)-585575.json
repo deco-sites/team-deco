@@ -23,7 +23,8 @@
       "startingPage": 1
     },
     {
-      "__resolveType": "site/sections/Newsletter/Newsletter.tsx"
+      "__resolveType": "site/sections/Newsletter/Newsletter.tsx",
+      "empty": {}
     },
     {
       "__resolveType": "Footer"

@@ -100,10 +100,10 @@
     "__resolveType": "commerce/loaders/navbar.ts"
   },
   "/.deco/blocks/pages-category-7493d4326022.json": {
-    "name": "Category",
     "path": "/s",
     "blockType": "pages",
-    "__resolveType": "website/pages/Page.tsx"
+    "__resolveType": "website/pages/Page.tsx",
+    "name": "Category"
   },
   "/.deco/blocks/pages-home-c4bcbfb771e9.json": {
     "name": "Home",
@@ -180,5 +180,9 @@
   "/.deco/blocks/Preview%20%2Fsections%2FImages%2FCarousel.tsx.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/Images/Carousel.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FProduct%2FProductShelf.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Product/ProductShelf.tsx"
   }
 }

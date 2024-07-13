@@ -1,5 +1,4 @@
 {
-  "name": "Category",
   "path": "/s",
   "default": {
     "possiblePaths": []
@@ -36,5 +35,6 @@
       "__resolveType": "Footer"
     }
   ],
-  "__resolveType": "website/pages/Page.tsx"
+  "__resolveType": "website/pages/Page.tsx",
+  "name": "Collections"
 }
