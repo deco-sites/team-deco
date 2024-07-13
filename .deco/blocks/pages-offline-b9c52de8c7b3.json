@@ -6,13 +6,20 @@
       "__resolveType": "Header"
     },
     {
+      "__resolveType": "site/sections/OfflineSection.tsx",
+      "name": "When user is offline."
+    },
+    {
+      "__resolveType": "site/sections/Product/ProductShelf.tsx",
       "title": "Oh no! You are offline!",
       "products": null,
-      "description": "Maybe take some time to explore",
-      "__resolveType": "site/sections/Product/ProductShelf.tsx"
+      "description": "Maybe take some time to explore"
     },
     {
       "__resolveType": "Footer"
+    },
+    {
+      "__resolveType": "site/sections/OfflineSection.tsx"
     }
   ],
   "__resolveType": "website/pages/Page.tsx"

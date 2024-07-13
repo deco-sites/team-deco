@@ -99,7 +99,7 @@ function BannerItem(
       )}
       <Picture preload={lcp} {...viewPromotionEvent}>
         <Source
-          media="(max-width: 767px)"
+          media="(max-width: 700px)"
           fetchPriority={lcp ? "high" : "auto"}
           src={mobile}
           width={412}
