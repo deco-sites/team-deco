@@ -7,7 +7,7 @@
     },
     {
       "__resolveType": "site/sections/OfflineSection.tsx",
-      "name": "When user is offline."
+      "name": "Something went wrong!!"
     },
     {
       "__resolveType": "site/sections/Product/ProductShelf.tsx",
