@@ -200,5 +200,15 @@
   "/.deco/blocks/Preview%20%2Fsections%2FImages%2FBanner.tsx.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/Images/Banner.tsx"
+  },
+  "/.deco/blocks/pages-Login%2520Page-721543.json": {
+    "name": "Login Page",
+    "path": "/login",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FHeader%2FHeader.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Header/Header.tsx"
   }
 }

@@ -1742,7 +1742,7 @@
             "content": [
               {
                 "type": "stack",
-                "width": 41.66666666666667,
+                "width": 41.51309408341416,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -1764,7 +1764,7 @@
               },
               {
                 "type": "stack",
-                "width": 58.333333333333336,
+                "width": 58.48690591658584,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -3293,6 +3293,72 @@
           }
         }
       }
+    },
+    {
+      "id": "/.deco/blocks/Preview%20%2Fsections%2FHeader%2FHeader.tsx.json",
+      "name": "Header.tsx",
+      "pinned": false,
+      "icon": "code",
+      "layout": {
+        "settings": {
+          "hasHeaders": true,
+          "constrainDragToContainer": true,
+          "reorderEnabled": true,
+          "selectionEnabled": false,
+          "popoutWholeStack": false,
+          "blockedPopoutsThrowError": true,
+          "closePopoutsOnUnload": true,
+          "showPopoutIcon": false,
+          "showMaximiseIcon": false,
+          "showCloseIcon": false,
+          "responsiveMode": "onload"
+        },
+        "dimensions": {
+          "borderWidth": 8,
+          "minItemHeight": 10,
+          "minItemWidth": 10,
+          "headerHeight": 40,
+          "dragProxyWidth": 300,
+          "dragProxyHeight": 200
+        },
+        "labels": {
+          "close": "close",
+          "maximise": "maximise",
+          "minimise": "minimise",
+          "popout": "open in new window",
+          "popin": "pop in",
+          "tabDropdown": "additional tabs"
+        },
+        "content": [
+          {
+            "type": "stack",
+            "isClosable": true,
+            "reorderEnabled": true,
+            "title": "",
+            "content": [
+              {
+                "type": "component",
+                "isClosable": true,
+                "reorderEnabled": true,
+                "title": "<div class=\"contents text-base-700\" id=\"header-%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FHeader%252FHeader.tsx.json::Preview::visibility::Preview::%7B%7D\" />",
+                "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FHeader%252FHeader.tsx.json::Preview::visibility::Preview::%7B%7D",
+                "componentName": "component",
+                "componentState": {
+                  "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FHeader%252FHeader.tsx.json::Preview::visibility::Preview::%7B%7D"
+                }
+              }
+            ],
+            "width": 100,
+            "activeItemIndex": 0
+          }
+        ],
+        "isClosable": true,
+        "reorderEnabled": true,
+        "title": "",
+        "openPopouts": [],
+        "maximisedItemId": null
+      },
+      "tabs": {}
     }
   ]
 }
