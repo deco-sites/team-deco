@@ -106,9 +106,7 @@ function Footer({
 
           <div class="flex flex-nowrap items-center justify-between sm:justify-center gap-4">
             <div>
-              <img loading="lazy" src={logo} 
-              width={300}
-              height={200}/>
+              <img loading="lazy" src={logo} />
             </div>
             <span class="text-xs font-normal text-base-300">{trademark}</span>
           </div>
