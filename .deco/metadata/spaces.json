@@ -1742,7 +1742,7 @@
             "content": [
               {
                 "type": "stack",
-                "width": 41.66666666666667,
+                "width": 32.88069835111542,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -1764,7 +1764,7 @@
               },
               {
                 "type": "stack",
-                "width": 58.333333333333336,
+                "width": 67.11930164888457,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -1803,8 +1803,7 @@
           "width": 30,
           "id": "%2F.deco%2Fblocks%2Fpages-home-c4bcbfb771e9.json::Properties::list::Properties::%7B%7D",
           "state": {
-            "__signal": null,
-            "value": null
+            "__signal": null
           }
         },
         "%2F.deco%2Fblocks%2Fpages-home-c4bcbfb771e9.json::Preview::visibility::Preview::%7B%7D": {
@@ -2907,19 +2906,6 @@
         "maximisedItemId": null
       },
       "tabs": {
-        "%2F.deco%2Fblocks%2FPLP%2520Loader.json::Properties::list::Properties::%7B%7D": {
-          "name": "Properties",
-          "icon": "list",
-          "accepts": "function",
-          "render": "function",
-          "viewId": "Properties",
-          "width": 30,
-          "id": "%2F.deco%2Fblocks%2FPLP%2520Loader.json::Properties::list::Properties::%7B%7D",
-          "state": {
-            "__signal": null,
-            "value": null
-          }
-        },
         "%2F.deco%2Fblocks%2FPLP%2520Loader.json::Preview::visibility::Preview::%7B%7D": {
           "name": "Preview",
           "icon": "visibility",
@@ -2928,6 +2914,18 @@
           "viewId": "Preview",
           "width": 70,
           "id": "%2F.deco%2Fblocks%2FPLP%2520Loader.json::Preview::visibility::Preview::%7B%7D",
+          "state": {
+            "__signal": null
+          }
+        },
+        "%2F.deco%2Fblocks%2FPLP%2520Loader.json::Properties::list::Properties::%7B%7D": {
+          "name": "Properties",
+          "icon": "list",
+          "accepts": "function",
+          "render": "function",
+          "viewId": "Properties",
+          "width": 30,
+          "id": "%2F.deco%2Fblocks%2FPLP%2520Loader.json::Properties::list::Properties::%7B%7D",
           "state": {
             "__signal": null
           }
