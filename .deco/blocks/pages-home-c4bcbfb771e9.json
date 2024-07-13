@@ -8,15 +8,15 @@
       "__resolveType": "site/sections/Images/Carousel.tsx",
       "images": [
         {
-          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/954fb3c5-304a-4446-937b-36754789f9e7",
-          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/88b2ad41-be6d-4640-b9fe-c58942362f0f",
+          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/6da0c9dd-0eff-415a-938d-abfa4d52576a",
           "alt": "Shoes",
           "action": {
             "title": "Skate into Adventure",
             "subTitle": "Top-quality roller skate shoes for all levels. ",
             "href": "#",
             "label": "Grab Yours Now!"
-          }
+          },
+          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/0020cc10-8311-4505-9ff6-d084607d1d44"
         },
         {
           "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/d26304f4-355b-48d0-b649-e24b9cbf0ded",

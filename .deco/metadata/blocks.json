@@ -184,5 +184,9 @@
   "/.deco/blocks/Preview%20%2Fsections%2FProduct%2FProductShelf.tsx.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/Product/ProductShelf.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FOfflineSection.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/OfflineSection.tsx"
   }
 }
