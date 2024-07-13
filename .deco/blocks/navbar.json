@@ -37,14 +37,14 @@
     },
     {
       "@type": "SiteNavigationElement",
-      "url": "/clearance",
-      "name": "Clearance",
+      "url": "/activities",
+      "name": "Activities",
       "children": []
     },
     {
       "@type": "SiteNavigationElement",
-      "url": "/activities",
-      "name": "Activities",
+      "url": "/clearance",
+      "name": "Clearance",
       "children": []
     }
   ],
