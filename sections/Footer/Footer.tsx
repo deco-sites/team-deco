@@ -69,8 +69,8 @@ function Footer({
                     src={image}
                     alt={alt}
                     loading="lazy"
-                    width={180}
-                    height={40}
+                    width={24}
+                    height={24}
                   />
                 </a>
               </li>
@@ -106,7 +106,9 @@ function Footer({
 
           <div class="flex flex-nowrap items-center justify-between sm:justify-center gap-4">
             <div>
-              <img loading="lazy" src={logo} />
+              <img loading="lazy" src={logo} 
+              width={500}
+              height={400} />
             </div>
             <span class="text-xs font-normal text-base-300">{trademark}</span>
           </div>
