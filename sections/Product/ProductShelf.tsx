@@ -48,7 +48,7 @@ export default function ProductShelf({ products, title, cta }: Props) {
 export function LoadingFallback() {
   return (
     <div
-      style={{ height: "716px" }}
+      style={{ height: "100px" }}
       class="flex justify-center items-center [view-transition-name:loading-fallback-2]"
     >
       <span class="loading loading-spinner" />

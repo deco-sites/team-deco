@@ -33,19 +33,8 @@
       "__resolveType": "site/sections/Product/ProductShelf.tsx",
       "title": "You may also like",
       "products": {
-        "__resolveType": "shopify/loaders/ProductList.ts",
-        "props": {
-          "sort": "",
-          "count": 9
-        },
-        "filters": {
-          "tags": [],
-          "productTypes": [
-            null
-          ],
-          "productVendors": [],
-          "variantOptions": []
-        }
+        "__resolveType": "shopify/loaders/RelatedProducts.ts",
+        "count": 10
       }
     },
     {

@@ -27,6 +27,19 @@
       "interval": 3
     },
     {
+      "__resolveType": "site/sections/Images/Banner.tsx",
+      "title": "Register to Save",
+      "cta": {
+        "label": "Sign Up",
+        "href": "#"
+      },
+      "description": "<p><span style=\"color: rgb(45, 194, 107);\" data-mce-style=\"color: rgb(45, 194, 107);\">Sign up now to get up to 50% off on your first order. Limited time offer!</span></p>",
+      "images": {
+        "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/ce6fa5f6-d213-4396-ac37-a5ff1c12fd7f",
+        "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/65e25008-c1ec-4cd9-8f64-786c26579461"
+      }
+    },
+    {
       "__resolveType": "site/sections/Product/ProductShelf.tsx",
       "title": "Featured Products",
       "cta": "/mono",
@@ -43,56 +56,6 @@
           "productVendors": [],
           "variantOptions": []
         }
-      }
-    },
-    {
-      "__resolveType": "site/sections/Category/CategoryGrid.tsx",
-      "title": "Departments",
-      "cta": "/all",
-      "items": [
-        {
-          "label": "Men",
-          "href": "/",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/38c33c9f-14a1-4048-973b-dc2a75caf1fa"
-        },
-        {
-          "href": "/",
-          "label": "Women",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/f6bea2b8-b248-4b42-9246-6e924a0acc8b"
-        },
-        {
-          "href": "/",
-          "label": "Kids",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/1b0ecaa2-9a13-4de2-bf17-5196948ed128"
-        },
-        {
-          "href": "/",
-          "label": "Hats",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/36e97897-5cf7-4271-a71c-683dc732ef8c"
-        },
-        {
-          "href": "/",
-          "label": "Accessories",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/92129655-fe40-4b29-8fdb-e7f71e67a5d1"
-        },
-        {
-          "href": "/",
-          "label": "Home & Living",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/d0433c00-cd26-4638-b519-0cb64b9f82e8"
-        }
-      ]
-    },
-    {
-      "__resolveType": "site/sections/Images/Banner.tsx",
-      "title": "Register to Save",
-      "cta": {
-        "label": "Sign Up",
-        "href": "#"
-      },
-      "description": "<p><span style=\"color: rgb(45, 194, 107);\" data-mce-style=\"color: rgb(45, 194, 107);\">Sign up now to get up to 50% off on your first order. Limited time offer!</span></p>",
-      "images": {
-        "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/ce6fa5f6-d213-4396-ac37-a5ff1c12fd7f",
-        "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/65e25008-c1ec-4cd9-8f64-786c26579461"
       }
     },
     {
@@ -149,6 +112,43 @@
             }
           },
           "title": "Stickers"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Category/CategoryGrid.tsx",
+      "title": "Departments",
+      "cta": "/all",
+      "items": [
+        {
+          "label": "Men",
+          "href": "/",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/1be971f3-92f6-4ec2-b64e-e4548f263a76"
+        },
+        {
+          "href": "/",
+          "label": "Women",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/be57dd8d-00a8-4b10-a0f4-8238db8bf306"
+        },
+        {
+          "href": "/",
+          "label": "Kids",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/464a3e7a-6c6a-4d28-a79d-4901e58e0ad7"
+        },
+        {
+          "href": "/",
+          "label": "Hats",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/5d57ff98-25fa-464a-97dc-5a12f3fbf274"
+        },
+        {
+          "href": "/",
+          "label": "Accessories",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/7506e3a4-80d5-42ec-8ec0-243e16015c7a"
+        },
+        {
+          "href": "/",
+          "label": "Home & Living",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/99a21372-7691-4c89-91e1-5f3f73125742"
         }
       ]
     },
