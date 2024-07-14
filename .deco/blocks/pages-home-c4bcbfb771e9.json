@@ -27,19 +27,6 @@
       "interval": 3
     },
     {
-      "__resolveType": "site/sections/Images/Banner.tsx",
-      "title": "Register to Save",
-      "cta": {
-        "label": "Sign Up",
-        "href": "#"
-      },
-      "description": "<p><span style=\"color: rgb(236, 240, 241); background-color: rgb(0, 0, 0); font-size: 14pt;\" data-mce-style=\"color: rgb(236, 240, 241); background-color: rgb(0, 0, 0); font-size: 14pt;\">Sign up now to get up to 50% off on your first order. Limited time offer!</span></p>",
-      "images": {
-        "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/ce6fa5f6-d213-4396-ac37-a5ff1c12fd7f",
-        "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/65e25008-c1ec-4cd9-8f64-786c26579461"
-      }
-    },
-    {
       "__resolveType": "site/sections/Product/ProductShelf.tsx",
       "title": "Featured Products",
       "cta": "/mono",
@@ -56,6 +43,69 @@
           "productVendors": [],
           "variantOptions": []
         }
+      }
+    },
+    {
+      "__resolveType": "site/sections/Images/Banner.tsx",
+      "cta": {
+        "label": "Sign Up",
+        "href": "#"
+      },
+      "description": "<p><br data-mce-bogus=\"1\"></p>",
+      "images": {
+        "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/d9abab7b-3edc-40d1-b5ab-dc0f0b23a6d8",
+        "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/d9abab7b-3edc-40d1-b5ab-dc0f0b23a6d8"
+      },
+      "title": "Cool"
+    },
+    {
+      "__resolveType": "site/sections/Category/CategoryGrid.tsx",
+      "cta": "/all",
+      "title": "Departments",
+      "items": [
+        {
+          "label": "Men",
+          "href": "/",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/1be971f3-92f6-4ec2-b64e-e4548f263a76"
+        },
+        {
+          "href": "/",
+          "label": "Women",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/be57dd8d-00a8-4b10-a0f4-8238db8bf306"
+        },
+        {
+          "href": "/",
+          "label": "Kids",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/464a3e7a-6c6a-4d28-a79d-4901e58e0ad7"
+        },
+        {
+          "href": "/",
+          "label": "Hats",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/5d57ff98-25fa-464a-97dc-5a12f3fbf274"
+        },
+        {
+          "href": "/",
+          "label": "Accessories",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/7506e3a4-80d5-42ec-8ec0-243e16015c7a"
+        },
+        {
+          "href": "/",
+          "label": "Home & Living",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/99a21372-7691-4c89-91e1-5f3f73125742"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Images/Banner.tsx",
+      "title": "Register to Save",
+      "cta": {
+        "label": "Sign Up",
+        "href": "#"
+      },
+      "description": "<p><span style=\"color: rgb(236, 240, 241); background-color: rgb(0, 0, 0); font-size: 14pt;\" data-mce-style=\"color: rgb(236, 240, 241); background-color: rgb(0, 0, 0); font-size: 14pt;\">Sign up now to get up to 50% off on your first order. Limited time offer!</span></p>",
+      "images": {
+        "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/ce6fa5f6-d213-4396-ac37-a5ff1c12fd7f",
+        "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/65e25008-c1ec-4cd9-8f64-786c26579461"
       }
     },
     {
@@ -116,41 +166,17 @@
       ]
     },
     {
-      "__resolveType": "site/sections/Category/CategoryGrid.tsx",
-      "title": "Departments",
-      "cta": "/all",
-      "items": [
-        {
-          "label": "Men",
-          "href": "/",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/1be971f3-92f6-4ec2-b64e-e4548f263a76"
-        },
-        {
-          "href": "/",
-          "label": "Women",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/be57dd8d-00a8-4b10-a0f4-8238db8bf306"
-        },
-        {
-          "href": "/",
-          "label": "Kids",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/464a3e7a-6c6a-4d28-a79d-4901e58e0ad7"
-        },
-        {
-          "href": "/",
-          "label": "Hats",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/5d57ff98-25fa-464a-97dc-5a12f3fbf274"
-        },
-        {
-          "href": "/",
-          "label": "Accessories",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/7506e3a4-80d5-42ec-8ec0-243e16015c7a"
-        },
-        {
-          "href": "/",
-          "label": "Home & Living",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/99a21372-7691-4c89-91e1-5f3f73125742"
-        }
-      ]
+      "__resolveType": "site/sections/Images/Banner.tsx",
+      "cta": {
+        "label": "Sign Up",
+        "href": "#"
+      },
+      "description": "<p style=\"line-height: 1.3;\" data-mce-style=\"line-height: 1.3;\"><span style=\"color: rgb(236, 240, 241); background-color: rgb(0, 0, 0); font-size: 14pt;\" data-mce-style=\"color: rgb(236, 240, 241); background-color: rgb(0, 0, 0); font-size: 14pt;\">Sign up now to get up to 50% off on your first order. Limited time offer!</span></p>",
+      "images": {
+        "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/0a46a63a-c016-4740-9142-6e6eb5945382",
+        "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/0a46a63a-c016-4740-9142-6e6eb5945382"
+      },
+      "title": "Horse Rider"
     },
     {
       "__resolveType": "site/sections/Newsletter/Newsletter.tsx",

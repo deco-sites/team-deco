@@ -1,14 +1,14 @@
 {
   "seo": {
     "type": "website",
-    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/8668e215-ff60-4cbe-9613-84a72a04cf88",
+    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/efb79f42-dcb5-4a41-9a9a-c63269ad460c",
     "jsonLDs": [],
     "noIndexing": false,
     "description": "A website to explore modern collections of clothes",
-    "titleTemplate": "%s | deco.cx",
     "descriptionTemplate": "%s | deco.cx",
-    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/d277675a-1dba-4bc8-aaf2-6bfd98bf3b02",
-    "title": "Vestit Amans"
+    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/efb79f42-dcb5-4a41-9a9a-c63269ad460c",
+    "title": "Vestit Amans",
+    "titleTemplate": "%s | deco.c"
   },
   "theme": {
     "__resolveType": "Deco"
