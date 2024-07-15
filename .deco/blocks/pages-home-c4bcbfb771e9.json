@@ -9,16 +9,16 @@
       "images": [
         {
           "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/cdb9c6e1-c59f-43fe-a17c-fd6c44ba3547",
-          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/19ff4577-fb32-4624-bab5-cf280da8f99e",
+          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/cdb9c6e1-c59f-43fe-a17c-fd6c44ba3547",
           "alt": "Wardrobe"
         },
         {
-          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/cdd4b312-1447-404b-92fc-1aa3285d794b",
+          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/613d1ee1-f285-4ddd-876a-bb7b363ce949",
           "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/613d1ee1-f285-4ddd-876a-bb7b363ce949",
           "alt": "men"
         },
         {
-          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/5e304641-4e29-4331-841e-f1b564265297",
+          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/176ec2dd-0202-49b0-9c73-c4145ee4847d",
           "alt": "Women",
           "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/176ec2dd-0202-49b0-9c73-c4145ee4847d"
         }
@@ -105,7 +105,7 @@
       "description": "<p><span style=\"color: rgb(236, 240, 241); background-color: rgb(0, 0, 0); font-size: 14pt;\" data-mce-style=\"color: rgb(236, 240, 241); background-color: rgb(0, 0, 0); font-size: 14pt;\">Sign up now to get up to 50% off on your first order. Limited time offer!</span></p>",
       "images": {
         "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/ce6fa5f6-d213-4396-ac37-a5ff1c12fd7f",
-        "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/65e25008-c1ec-4cd9-8f64-786c26579461"
+        "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/ce6fa5f6-d213-4396-ac37-a5ff1c12fd7f"
       }
     },
     {
@@ -171,7 +171,7 @@
         "label": "Sign Up",
         "href": "#"
       },
-      "description": "<p style=\"line-height: 1.3;\" data-mce-style=\"line-height: 1.3;\"><span style=\"color: rgb(236, 240, 241); background-color: rgb(0, 0, 0); font-size: 14pt;\" data-mce-style=\"color: rgb(236, 240, 241); background-color: rgb(0, 0, 0); font-size: 14pt;\">Sign up now to get up to 50% off on your first order. Limited time offer!</span></p>",
+      "description": "<p><br data-mce-bogus=\"1\"></p>",
       "images": {
         "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/0a46a63a-c016-4740-9142-6e6eb5945382",
         "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11658/0a46a63a-c016-4740-9142-6e6eb5945382"
@@ -180,7 +180,6 @@
     },
     {
       "__resolveType": "site/sections/Newsletter/Newsletter.tsx",
-      "label": "Sign up",
       "placeholder": "Email address",
       "empty": {
         "title": "Get top deals, latest trends, and more.",
@@ -193,7 +192,8 @@
       "failed": {
         "title": "Oops!. Something went wrong!",
         "description": "Something went wrong. Please try again. If the problem persists, please contact us."
-      }
+      },
+      "label": "Subscribe"
     },
     {
       "__resolveType": "Footer"

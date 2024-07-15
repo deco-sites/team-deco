@@ -6,6 +6,6 @@
     "name": "SHOPIFY_ACCESS_TOKEN"
   },
   "platform": "shopify",
-  "storeName": "gimenesdevstore",
-  "storefrontAccessToken": "71f2c3da0dab3b4eee7dce35eb8c6113"
+  "storefrontAccessToken": "71f2c3da0dab3b4eee7dce35eb8c6113",
+  "storeName": "gimenesdevstore"
 }

@@ -22,11 +22,7 @@
     {
       "__resolveType": "site/sections/Product/ProductDetails.tsx",
       "page": {
-        "__resolveType": "shopify/loaders/ProductDetailsPage.ts",
-        "slug": {
-          "__resolveType": "website/functions/requestToParam.ts",
-          "param": "slug"
-        }
+        "__resolveType": "shopify/loaders/ProductDetailsPage.ts"
       }
     },
     {
